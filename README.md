@@ -15,4 +15,3 @@ A simple and elegant weather application built using **HTML**, **CSS**, and **Ja
 - CSS3
 - JavaScript (ES6)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
